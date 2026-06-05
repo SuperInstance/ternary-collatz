@@ -1,0 +1,8 @@
+[package]
+name = "ternary-collatz"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "ternary_collatz"
+path = "src/lib.rs"
